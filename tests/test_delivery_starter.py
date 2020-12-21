@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 from unittest import mock
 
-from services import delivery_starter
+import delivery_starter
 from tests import reports, valid_orders
 
 
